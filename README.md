@@ -31,7 +31,7 @@ Running it through **Meta Quest Link** directly from the Unity editor and the Pl
 
 ---
 
-## ➕ Adding New QR Codes and new object to spawn
+## ➕ Adding New QR Codes and new objects to spawn
 
 It is possible to add/change the QR codes being detected and the objects spawnig:
 
