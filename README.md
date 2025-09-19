@@ -9,7 +9,7 @@ This project was built using **Unity version 6000.0.38f1**.
 ---
 
 ## ⚠️ Warning
-This project **only works on the Meta Quest 3** due to the use of the **Passthrough Camera API**.  
+This project **only works on the Meta Quest 3** due to the use of the [**Passthrough Camera API.**](https://github.com/oculus-samples/Unity-PassthroughCameraApiSamples)
 Running it through **Meta Quest Link** directly from the Unity editor and the Play button will **not work**.
 
 ---
@@ -26,8 +26,8 @@ Running it through **Meta Quest Link** directly from the Unity editor and the Pl
 
 ## 🛠️ Project Components
 
-- **Passthrough Camera API** : Access to the Meta Quest camera.  
-- **Zxing** : QR code detection and reading.  
+- [**Passthrough Camera API**](https://github.com/oculus-samples/Unity-PassthroughCameraApiSamples) : Access to the Meta Quest camera.  
+- **Zxing** : QR code detection and reading. ([Download link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDNnLW5sWjRteEZER2hGb1JtZ0FmcVJma0s5UXxBQ3Jtc0trTWdrWDF2U21HTndvUDY3WmRXbDU1R3JaNlpGQ2F0NDNKckxxS0hlSkNTSV9yMmxmbjJGZDRTQTFfREtyNUVRNUtoRW5NVVd4LUR3Q0dLSzZDb3R2MW1IeXVxVnRTeFdMSVJrcnk0WmM4Mkxkc0JYaw&q=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1tQuPhWW_vGYubkHTMYv-bA5y_Vd06Btl&v=GAyt-LP7Bv8)) 
 
 ---
 
