@@ -1,6 +1,6 @@
 # Unity Augmented Reality Application – Virtual Watering Can on QR Code
 
-Unity augmented reality application that spawns a virtual watering can on a defined QR Code.
+Unity augmented reality application that spawns a virtual watering can on a defined QR Code. \
 When running the application, looking at a defined QR code will make the desired object appear.  
 By default, this object is a watering can.  
 
