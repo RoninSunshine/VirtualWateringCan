@@ -1,6 +1,6 @@
 # Unity Augmented Reality Application – Virtual Watering Can on QR Code
 
-Unity augmented reality application that spawns a virtual watering can on a defined QR Code
+Unity augmented reality application that spawns a virtual watering can on a defined QR Code.
 When running the application, looking at a defined QR code will make the desired object appear.  
 By default, this object is a watering can.  
 
@@ -35,12 +35,12 @@ Running it through **Meta Quest Link** directly from the Unity editor and the Pl
 
 It is possible to add/change the QR codes being detected and the objects spawnig:
 
-1. In the **SampleScene**, select the **QrCodeDetection** object from the hierarchy.  
-2. In its **QrCodeTargets** field, you can add new `QrCodeTarget` objects.  
+1. In the scene called **SampleScene**, select the **QrCodeDetection** object from the hierarchy. \
+In its **QrCodeTargets** field, you can add new `QrCodeTarget` objects.  
    - Each target contains:
      - The link to the QR code.  
      - The object that should appear when the QR code is detected.  
-3. Click the **“+”** button to add new entries.  
+2. Click the **“+”** button to add new entries.   
 
 ---
 
